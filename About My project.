@@ -1,3 +1,6 @@
 # Seoul-bike-rented-
-This is a project I did on the Data camp workspace... Practicing plotly. I should try matplotlib as that was my initial package of interest but it was proving difficult.
-https://app.datacamp.com/workspace/w/3675452d-b8b9-49d1-a421-bf18622e6540/edit#bike-sharing-demand
+This is a project I did on the Data camp workspace...
+Kindly download the Seoul bike data.csv file with 8760 rows and 14 columns. 
+I intend to explore this data more as this is just an overview working with numpy, pandas and plotly.Practicing plotly.
+I should try matplotlib as that was my initial package of interest but it was proving difficult.
+Here's the link to my profile https://app.datacamp.com/workspace/w/3675452d-b8b9-49d1-a421-bf18622e6540/edit#bike-sharing-demand
